@@ -39,7 +39,7 @@
     "gh-pages": "^3.2.3"
   }
     // ...
-    "homepage": "http://pure-adachi.github.io/myapp",
+    "homepage": "http://kosuke2000.github.io/tic-tac-toe-game",
     "scripts": {
       // ...
       "deploy": "yarn build && gh-pages -d build"
